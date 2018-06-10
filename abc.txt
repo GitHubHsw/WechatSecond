@@ -2,3 +2,5 @@ test Github
 abcajdsfkljsdfkljasdklf
 asdfjasd;fjklasdfjklsdfjcc
 vvvvvvvvvvvvvvvvvvvvvvvvv
+
+test WechatSecond in GitHubHappy2018
